@@ -24,9 +24,9 @@ government and U.S. universities. Environmental and climate data is provided by 
 (NOAA), an agency of the U.S. Department of Commerce.
 In their own words:
 
-```Accurate dengue predictions would help public health workers ... and people around the world take steps to reduce the impact of 
+`Accurate dengue predictions would help public health workers ... and people around the world take steps to reduce the impact of 
 these epidemics. But predicting dengue is a hefty task that calls for the consolidation of different data sets on disease incidence, 
-weather, and the environment.```
+weather, and the environment.`
 
 This is a complicated and messy problem, to be sure. But real data is often complicated and messy. Study up using the resources 
 below—your insights could save lives!
