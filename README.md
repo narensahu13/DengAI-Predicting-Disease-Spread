@@ -49,14 +49,6 @@ The format for the submission file is simply the (city, year, weekofyear) and th
 Iquitos (for an example, see SubmissionFormat.csv on the data download page). The total_cases should be represented as 
 integer values.
 
-#### Python 3.6 libraries
-```
-fastai==1.0.50.post1
-torch==1.0.1.post2
-torchvision==0.2.2
-pretrainedmodels
-```
-
 #### Approach
 
 TBD
